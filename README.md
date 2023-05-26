@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhinHxH
-- 👀 I’m interested in do projects that help me to improve like programmation student.
-- 🌱 I’m currently learning about of new tecnologies that JavaScript have to offer me.
-- 💞️ I’m looking to collaborate in all kinds of ambitious projects, especially those related to industry 4.0.
+- 👀 I’m interested in do projects of IA and web development.
+- 🌱 I’m currently learning about of new tecnologies that JavaScript and machine learning with Python have to offer me.
+- 💞️ I’m looking to collaborate in all kinds of ambitious projects, especially those related to data cience.
 - 📫 If you want to discuss with me, you can to write me to jhosben16@gmail,com
 
 <!---
