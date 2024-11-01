@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZhinHxH
-- 👀 I’m interested in do projects of IA and web development.
-- 🌱 I’m currently learning about of new tecnologies that JavaScript and machine learning with Python have to offer me.
-- 💞️ I’m looking to collaborate in all kinds of ambitious projects, especially those related to data cience.
-- 📫 If you want to discuss with me, you can to write me to jhosben16@gmail,com
+- 👋 Hi, I’m @ZhinHxH, software and AI developer
+- 👀 I am a curious person who loves to keep constantly learning.
+- 🌱 I’m currently learning about of new tecnologies with applications in the AI and cloud computing.
+- 💞️ I’m looking to collaborate in all kinds of ambitious projects that allow me to face challenges to grow professionally.
+- 📫 If you want to discuss with me, you can to write me to jhosben16@gmail.com
 
 <!---
 ZhinHxH/ZhinHxH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
